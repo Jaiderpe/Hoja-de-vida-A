@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/s.css">
+    <link rel="stylesheet" href="css/images">
+    <title>Document</title>
+</head>
+<body>
+    <header class="header-inicial">
+        <div class="contenedor"20px; height: 20px;>
+            <img src="images/images.jpg" style="width: 200px">
+            <p >NOMBRE: jeisson stiven perez gonzalez</p>
+            <p >EMAIL: perezjeisson003@gmail.com</p>
+            <p >TELEFONO CONTACTO: 3115835512</p>
+            <p >NRO MOVIL: 3236999706</p>
+    
+    </header>
+    </div>
+    <div class="table-marcos1">
+        <table>
+            <thead>
+                <td rowspan="4">PERFIL PROFESIONAL</td>
+                <td rowspan="4">ESTUDIOS ACDEMICOS</td>
+            </thead>
+            <tbody>
+                <tr class="col">
+                    <td>BASICO PRIMARIA: marco fidel suares</td>
+                    <td>COLEGIO: fransico jose del caldas </td>
+                    <td>AÑO: 2018</td>
+                </tr>
+                <tr class="col">
+                    <td>BASICA SEGUDARIA:</td>
+                    <td>COLEGIO: FRANSICO JOSE DEL CALDAS</td>
+                    <td>AÑO: 2020</td>
+                </tr>
+                <tr class="col">
+                    <td>PROFESIONAL:</td>
+                    <td>INSTITUCION:</td>
+                    <td>AÑO:</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <hr>
+    <div class="table-marcos2">
+        <table>
+            <thead>
+                <td rowspan="4">CURSOS ESPECIALIZADOS</td>
+            </thead>
+            <tbody>
+                <tr class="col">
+                    <td>NOMBRE CURSO :</td>
+                    <td>INSTITUCION :</td>
+                    <td>AÑO :</td>
+                </tr>
+                <tr class="col">
+                    <td>NOMBRE CURSO :</td>
+                    <td>INSTITUCION :</td>
+                    <td>AÑO :</td>
+                </tr>
+                <TR class="col">
+                    <td>NOMBRE CURSO :</td>
+                    <td>INSTITUCION :</td>
+                    <td>AÑO:</td>
+                </TR>
+            </tbody>
+            <thead>
+                <td rowspan="4">IDOMAS</td>
+            </thead>
+            <tbody>
+                <tr class="col">
+                    <td>IDIOMA NATIVO : español</td>
+                    <td>NIVEL : lee : 00%</td>
+                    <td>ESCRIBE : 00%</td>
+                </tr>
+                <tr class="col">
+                    <td>OTRO IDIOMA :</td>
+                    <td>NIVEL : A1,A2,B1</td>
+                    <td>LEE : 00%</td>
+                    <td>ESCRIBE : 00%</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+    <div class="table-marcos3">
+        <table>
+            <thead>
+                <td>STACK TECNOLOGICO</td>
+            </thead>
+            <tbody>
+                <tr class="col">
+                    <td>NOMBRE : BD</td>
+                    <td>TEC :MySQL,SqlServer</td>
+                    <td>NIVEL CONOCIMIENTO :%,</td>
+                </tr>
+            </tbody>
+            <thead>
+                <td>EXP, LABORAL</td>
+            </thead>
+            <tbody>
+                <tr class="col">
+                    <td>Nombre emoresa :</td>
+                    <td>Cargo :</td>
+                    <td>Logros :</td>
+                    <td>Año :</td>
+                    <td>Stack Tecnologico :</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>

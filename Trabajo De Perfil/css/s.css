@@ -1,0 +1,37 @@
+*{margin: 1px;
+    padding: 1px;
+    box-sizing:  border-box;
+
+}
+.header-inicial{
+    margin-top: 200px;
+    background-color: rgb(240, 236, 232);
+    border: 5px solid;
+    vertical-align: top;
+    display: flex;
+    width: 100%;
+}
+.header-inicial img{
+    border-radius: 700px; 
+    padding-left: 20px ;
+    width: 250px;
+    height: 220px;
+   
+}
+.cotenedor{
+    margin: 300px;
+    padding: 404px;
+}
+.table-marcos1{
+    border: 5px solid;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+
+}
+.table-marcos2{
+    border: 5px solid;
+}
+.table-marcos3{
+    border: 5px solid;
+}
